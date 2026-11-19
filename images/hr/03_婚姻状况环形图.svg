@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="291.6pt" height="309.118384pt" viewBox="0 0 291.6 309.118384" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-19T10:24:34.089410</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 309.118384 
+L 291.6 309.118384 
+L 291.6 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 246.207794 210.010374 
+C 254.123666 193.113367 257.647684 174.488429 256.452182 155.867458 
+C 255.256674 137.246486 249.379878 119.225105 239.368258 103.479079 
+C 229.356637 87.733052 215.530429 74.766055 199.175307 65.783853 
+C 182.820189 56.801651 164.459305 52.091563 145.799995 52.091563 
+L 145.799997 98.661163 
+C 156.622397 98.661163 167.27171 101.393014 176.757678 106.602691 
+C 186.243649 111.812368 194.262849 119.333227 200.069589 128.465922 
+C 205.876329 137.598617 209.284871 148.051018 209.978266 158.851182 
+C 210.671657 169.651345 208.627726 180.453809 204.036521 190.254073 
+z
+" style="fill: #4472c4; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 36.577197 143.873021 
+C 31.950249 170.334134 37.093331 197.595741 51.043239 220.552206 
+C 64.993148 243.50867 86.821026 260.631449 112.4389 268.713755 
+C 138.056775 276.796054 165.75889 275.299732 190.35712 264.504995 
+C 214.95535 253.710259 234.811827 234.335899 246.207794 210.010374 
+L 204.036521 190.254073 
+C 197.42686 204.362877 185.910103 215.600006 171.643129 221.860953 
+C 157.376156 228.121901 141.30893 228.989767 126.450562 224.302034 
+C 111.592195 219.614297 98.932026 209.683085 90.841079 196.368336 
+C 82.750132 183.053586 79.767145 167.241854 82.450775 151.894408 
+z
+" style="fill: #ed7d31; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 145.800001 52.091563 
+C 119.710909 52.091563 94.440684 61.299361 74.467228 78.083338 
+C 54.493772 94.867316 41.070916 118.17385 36.577197 143.873021 
+L 82.450775 151.894408 
+C 85.057131 136.988889 92.842388 123.471099 104.426992 113.736393 
+C 116.011597 104.001686 130.668327 98.661163 145.800001 98.661163 
+z
+" style="fill: #a5a5a5; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_5">
+    <path d="M 252.818626 97.504063 
+Q 237.143542 106.250194 221.468457 114.996324 
+" style="fill: none; opacity: 0.6; stroke: #333333; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; fill: #333333" transform="translate(256.567363 87.612822)">单身</text>
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; fill: #333333" transform="translate(258.074863 98.270509)">470</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 108.066428 278.156736 
+Q 113.417369 263.27305 118.768309 248.389365 
+" style="fill: none; opacity: 0.6; stroke: #333333; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; fill: #333333" transform="translate(94.097791 289.199134)">已婚</text>
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; fill: #333333" transform="translate(95.605291 299.856821)">673</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 66.87875 72.341429 
+Q 77.470066 83.40208 88.061382 94.462732 
+" style="fill: none; opacity: 0.6; stroke: #333333; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; fill: #333333" transform="translate(45.494057 56.630023)">离异</text>
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; fill: #333333" transform="translate(47.001557 67.28771)">327</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: middle; fill: #333333" x="145.8" y="166.469375" transform="rotate(-0 145.8 166.469375)">婚姻状况</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: middle" x="145.8" y="18.371563" transform="rotate(-0 145.8 18.371563)">婚姻状况分布</text>
+   </g>
+  </g>
+ </g>
+</svg>
